@@ -1,4 +1,4 @@
-import { meta, shopify, starbucks, tesla } from "../assets/images";
+import { meta, shopify, starbucks, Zidio, Fiverr, upwork, Lantop } from "../assets/images";
 import {
     car,
     css,
@@ -125,10 +125,10 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "React.js Developer",
-        company_name: "Starbucks",
-        icon: starbucks,
-        iconBg: "#accbe1",
+        title: "Full stack Developer",
+        company_name: "Upwork",
+        icon: upwork,
+        iconBg: "#385925",
         date: "March 2020 - April 2021",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
@@ -138,10 +138,10 @@ export const experiences = [
         ],
     },
     {
-        title: "React Native Developer",
-        company_name: "Tesla",
-        icon: tesla,
-        iconBg: "#fbc3bc",
+        title: "Full stack Developer",
+        company_name: "Fiverr",
+        icon: Fiverr,
+        iconBg: "#00b22d",
         date: "Jan 2021 - Feb 2022",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
@@ -151,10 +151,10 @@ export const experiences = [
         ],
     },
     {
-        title: "Web Developer",
-        company_name: "Shopify",
-        icon: shopify,
-        iconBg: "#b7e4c7",
+        title: "Full stack Developer",
+        company_name: "Zidio Development",
+        icon: Zidio,
+        iconBg: "#c51bf0",
         date: "Jan 2022 - Jan 2023",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
@@ -164,11 +164,11 @@ export const experiences = [
         ],
     },
     {
-        title: "Full stack Developer",
-        company_name: "Meta",
-        icon: meta,
-        iconBg: "#a2d2ff",
-        date: "Jan 2023 - Present",
+        title: "Web Developer Intern",
+        company_name: "Lantop Infotech",
+        icon: Lantop,
+        iconBg: "#fff",
+        date: "Aug 2021 - Jan 2022",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",

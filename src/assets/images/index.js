@@ -3,7 +3,11 @@ import meta from './meta.png'
 import shopify from './shopify.png'
 import starbucks from './starbucks.png'
 import tesla from './tesla.png'
+import upwork from './upwork-icon.svg'
+import Fiverr from './fiverr-icon.svg'
+import Zidio from './zidio_logo.png'
 import logo from './logo.svg'
+import Lantop from './Lantop.svg'
 
 export {
     hero,
@@ -11,5 +15,9 @@ export {
     shopify,
     starbucks,
     tesla,
-    logo
+    logo,
+    upwork,
+    Fiverr,
+    Zidio,
+    Lantop
 }
